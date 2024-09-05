@@ -12,3 +12,6 @@ Receives coordinates from GPS module via a microcontroller.
 Uses UDS sockets to receive input from the sensors and send commands to the brake controls.
 
 The full report for our project can be found [here]().
+
+Each subfolder was once its own repository.
+In the process of cleaning this account and squashing them down, commit history has been lost.
